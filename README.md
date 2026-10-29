@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Voxel+Editor-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-3D+Voxel+Modeling-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Avoyd Free Installer** — Avoyd is a voxel editor and game with an unusual twist: voxel worlds can be curved and planet-sized. Works without internet access, no account required. Full offline installation.
+**💻 Avoyd Free Installer** — Avoyd is a voxel editor and game development platform for creating voxel worlds, environments, and games. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Avoyd
 
-Avoyd is a voxel editor and game with an unusual twist: voxel worlds can be curved and planet-sized. Its voxel editor supports large-scale procedural world generation and editing, exporting to Blender or other 3D tools via its mesh output.
+Avoyd is a voxel editor and game development platform for creating voxel worlds, environments, and games. Build large-scale voxel scenes with lighting, physics, and scripting for interactive experiences. Avoyd supports export to standard formats for use in other 3D applications and game engines. It targets independent game developers who want to create voxel-based games and environments.
 
 ---
 
 ## ❌ Problem: Avoyd is hard to access
 
-- **Niche Tool** — Planet-scale voxel editing is a very specialized capability
-- **Early Access** — Game and editor features still in active development
-- **Complex Concepts** — Curved space voxel editing requires spatial reasoning adaptation
-- **Limited Community** — Small user base means few tutorials and shared worlds
+- **Commercial License** — Paid software for full feature access
+- **Niche Use Case** — Specifically designed for voxel workflows
+- **Performance at Scale** — Very large voxel worlds can be demanding on hardware
+- **Learning Curve** — Game development features require programming knowledge
 
 ---
 
@@ -121,7 +121,7 @@ Avoyd is a voxel editor and game with an unusual twist: voxel worlds can be curv
 
 ---
 
-**Avoyd Free Installer** — Avoyd is a voxel editor and game with an unusual twist: voxel worlds can be curved and planet-sized. Install without internet connection today!
+**Avoyd Free Installer** — Avoyd is a voxel editor and game development platform for creating voxel worlds, environments, and games. Install without internet connection today!
 
 <div align="center">
 
